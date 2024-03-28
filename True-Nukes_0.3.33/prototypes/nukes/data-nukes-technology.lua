@@ -274,9 +274,9 @@ if(hasMedium or hasLarge or hasCompact15kt) then
       prerequisites = {"artillery"},
       unit =
       {
-        count = 1000,
+        count = 100,
         ingredients = no_util,
-        time = 60
+        time = 30
       },
       order = "e-a-e"
     },
