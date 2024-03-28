@@ -4,8 +4,6 @@ local nuke_materials = require("data-nukes-material")
 specialTechForWarheadWeapon["artillery-shell-atomic-4t"] = "artillery-atomics"
 specialTechForWarheadWeapon["artillery-shell-atomic-8t"] = "artillery-atomics"
 specialTechForWarheadWeapon["artillery-shell-atomic-20t"] = "artillery-atomics"
-specialTechForWarheadWeapon["artillery-shell-atomic-500t"] = "artillery-atomics"
-specialTechForWarheadWeapon["artillery-shell-atomic-1kt"] = "artillery-atomics"
 
 specialTechForWarheadWeapon["land-mine-atomic-20t"] = "atomic-bomb"
 
