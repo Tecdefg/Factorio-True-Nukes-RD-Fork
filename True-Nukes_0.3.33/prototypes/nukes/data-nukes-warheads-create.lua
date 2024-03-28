@@ -616,7 +616,7 @@ if(settings.startup["enable-15kt"].value) then
     appendOrder = "x-n-a-m-15-1",
     target_type = "position",
 
-    size = "huge",
+    size = "large",
     preciseSize = 44,
     final_effect = nuke_explosions.N15kt_detonation,
     appearance = createAppearance({type = "nuclear_core", tints = {tints.uraniumLive, tints.uraniumLive, tints.uraniumLive}, text_location = "__True-Nukes__/graphics/text/", text = "15kt"}),
@@ -698,7 +698,7 @@ if(settings.startup["enable-fusion"].value) then
     appendName = "-atomic-2-stage",
     appendOrder = "x-n-a-t",
     target_type = "position",
-    size = "huge",
+    size = "large",
     preciseSize = 56,
     final_effect = nuke_explosions.N15kt_detonation,
     appearance = createAppearance({type = "nuclear_core", tints = {tints.tritium, tints.tritium, tints.tritium}, text_location = "__True-Nukes__/graphics/text/", text = "15kt+"}),
